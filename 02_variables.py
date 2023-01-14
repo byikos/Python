@@ -51,7 +51,7 @@ print(type(age))
 '''
 
 
-# Las varibles pueden cambiar su valor a la vez que tu tipo de dato
+# Las varibles pueden cambiar su valor a la vez que su tipo de dato
 first_name = 22
 age = "Gianfranco"
 print(first_name)
